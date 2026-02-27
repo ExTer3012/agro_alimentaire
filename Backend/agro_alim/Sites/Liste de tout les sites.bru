@@ -1,0 +1,15 @@
+meta {
+  name: Liste de tout les sites
+  type: http
+  seq: 1
+}
+
+get {
+  url: http://localhost:8080/api/sites
+  body: none
+  auth: inherit
+}
+
+settings {
+  encodeUrl: true
+}
