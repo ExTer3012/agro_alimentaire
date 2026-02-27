@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "agro_alim",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
